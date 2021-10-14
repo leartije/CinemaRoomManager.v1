@@ -1,6 +1,8 @@
 # CinemaRoomManager.v1
 Cinema Room Manager 
 
+4/5
+
 Description
 
 The theatre is getting popular, and the customers started complaining that it's not practical that the program stops after buying one ticket. Let's add a menu that will allow them to buy tickets and display the current state of the seating arrangement when needed.
